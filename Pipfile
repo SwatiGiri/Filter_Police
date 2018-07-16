@@ -12,6 +12,7 @@ tensorflow="*"
 Keras="*"
 Keras-Applications="*"
 Keras-Preprocessing="*"
+jupyter = "*"
 
 [dev-packages]
 
