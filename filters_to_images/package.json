@@ -1,0 +1,16 @@
+{
+  "name": "filters_to_images",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^1.6.11",
+    "filterous": "^2.0.2-beta",
+    "shelljs": "^0.8.2"
+  }
+}
